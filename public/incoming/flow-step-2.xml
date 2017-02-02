@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Response>
+    <Sms method="GET" action="flow-step-3.xml">The message has been sent. Goodbye.</Sms>
+</Response>
